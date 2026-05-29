@@ -1,10 +1,5 @@
 # Relatório de Arquitetura
 
-**Curso:**  
-**Nome:**  
-**Número:**  
-**Projeto:** API de Gestão de Biblioteca
-
 ## Visão geral
 
 Este projeto é uma API REST para gerir uma biblioteca. Permite trabalhar com autores, livros e reservas. A base de dados usada é SQLite e a autenticação é feita com Laravel Sanctum.
