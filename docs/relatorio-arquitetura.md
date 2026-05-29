@@ -1,6 +1,6 @@
 # Relatório de Arquitetura
 
-**Repositório Git:** [DiogoSilva78/biblioteca-api.git](https://github.com/DiogoSilva78/biblioteca-api.git)
+**Repositório Git:** https://github.com/DiogoSilva78/biblioteca-api.git
 
 ## Visão geral
 
