@@ -51,10 +51,3 @@ A API fica em `http://127.0.0.1:8000/api`.
 | PATCH | `/api/reservas/{reserva}` | admin |
 | GET | `/api/reservas/minhas` | leitor |
 | POST | `/api/reservas` | leitor |
-
-## Ficheiros entregues
-
-- `.env.example`
-- seeders
-- colecao Postman
-- relatorio de arquitetura
