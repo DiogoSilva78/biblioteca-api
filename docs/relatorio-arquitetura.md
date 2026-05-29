@@ -1,5 +1,7 @@
 # Relatório de Arquitetura
 
+**Repositório Git:** [DiogoSilva78/biblioteca-api.git](https://github.com/DiogoSilva78/biblioteca-api.git)
+
 ## Visão geral
 
 Este projeto é uma API REST para gerir uma biblioteca. Permite trabalhar com autores, livros e reservas. A base de dados usada é SQLite e a autenticação é feita com Laravel Sanctum.
